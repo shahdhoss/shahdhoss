@@ -47,8 +47,4 @@
 </div>
 
 ###
-<div align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake" />
-  <img src="dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub contribution grid snake dark" />
-</div>
  
