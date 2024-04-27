@@ -48,8 +48,3 @@
 
 ###
 
-<br clear="both">
-
-![snake](https://raw.githubusercontent.com/shahdhoss/shahdhoss/output/snake.svg)
-
-###
