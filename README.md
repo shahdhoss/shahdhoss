@@ -1,4 +1,4 @@
-<h3 align="center">Hi there! 👋 I'm Shahd, a Computer Science student at [Zewail City](https://www.zewailcity.edu.eg/main/index.php?lang=en). I'm deeply passionate about coding and thrive on building exciting projects. Currently, I'm actively seeking opportunities to collaborate on new ventures and projects.</h3>
+<h3 align="center">Hi there! 👋 I'm Shahd, a Computer Science student at Zewail City. I'm deeply passionate about coding and thrive on building exciting projects. Currently, I'm actively seeking opportunities to collaborate on new ventures and projects.</h3>
 
 ###
 
