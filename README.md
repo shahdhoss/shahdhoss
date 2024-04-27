@@ -38,11 +38,14 @@
 ###
 
 <div align="left">
-  <a href="s-shahd.fouda@zewailcity.edu.eg" target="_blank">
+  <a href="mailto:s-shahd.fouda@zewailcity.edu.eg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/shahdhoss/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://leetcode.com/shahdhossam/" target="_blank">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALeetCode_logo_black.png&psig=AOvVaw0KZ6VSYEcUjAPLLdizJtVC&ust=1714272177178000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDgyNKv4YUDFQAAAAAdAAAAABAE" height="35" alt="gmail logo"  />
   </a>
 </div>
 
