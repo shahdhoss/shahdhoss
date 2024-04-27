@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-![Alt text](https://raw.githubusercontent.com/shahdhoss/shahdhoss/output/snake.svg)
+![snake](https://raw.githubusercontent.com/shahdhoss/shahdhoss/output/snake.svg)
 
 ###
